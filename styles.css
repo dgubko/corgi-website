@@ -1,0 +1,23 @@
+header nav {
+    display: inline-block;
+    float: right;
+}
+header nav a {
+    margin: 40px;
+}
+#company-name {
+    font-family: 'Pacifico', cursive;
+}
+header {
+    background-color: #E0D8B0;
+}
+body {
+    font-family: 'Poppins', sans-serif;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+#par-1 {
+    background-color: #E0D8B0;   
+}
